@@ -1,0 +1,10 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*.css": "css"
+     },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+    }
+}
