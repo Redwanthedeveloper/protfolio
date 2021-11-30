@@ -5,8 +5,8 @@ const Banner = () => {
     <div className='hero__area'>
       <Navbar />
       <div className='hero__main'>
-        <div className='dot1 '></div>
-        <div className='dot2 '></div>
+        <div className='dot1' data-aos="fade-up" data-aos-duration="1000"></div>
+        <div className='dot2' data-aos="fade-down" data-aos-duration="1000"></div>
         <div className='container'>
           <div className='hero__wrapper'>
             <div className='hero__left ' data-aos="fade-right" data-aos-duration="1000">
