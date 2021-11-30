@@ -178,7 +178,7 @@ input::placeholder {
   padding-left: 30px;
   padding-bottom: 30px;
   background: #f6f6f8;
-  transition: 0.3s all;
+  transition: 0.3s all !important;
 }
 .box:hover {
   background: #7364e3;
